@@ -8,7 +8,7 @@ Introduction
 
 This small openFrameworks program allows you to make spirograph figures. 
 
-More information about spirograph and this program [here](https://elaye.github.io/openframeworks/2015/03/12/spirograph.html){:target="_blank"}.
+More information about spirograph and this program <a href="https://elaye.github.io/openframeworks/2015/03/12/spirograph.html" target="_blank">here</a>.
 
 Installation
 ------------
@@ -32,7 +32,7 @@ Examples
 	<img src="spirograph_5.png" alt="Spirograph 5">
 </div>
 
-More examples [here](https://elaye.github.io/openframeworks/2015/03/12/spirograph.html){:target="_blank"}.
+More examples <a href="https://elaye.github.io/openframeworks/2015/03/12/spirograph.html" target="_blank">here</a>.
 
 Dependencies
 ------------
